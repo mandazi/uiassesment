@@ -1,0 +1,24 @@
+{
+  "name": "uiassessment",
+  "version": "1.0.0",
+  "description": "Simple app to display my skills.",
+  "main": "server.js",
+  "dependencies": {
+    "express":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandazi/uiassesment.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "dashboard"
+  ],
+  "author": "mandazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandazi/uiassesment/issues"
+  },
+  "homepage": "https://github.com/mandazi/uiassesment#readme"
+}
