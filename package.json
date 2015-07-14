@@ -4,7 +4,9 @@
   "description": "Simple app to display my skills.",
   "main": "server.js",
   "dependencies": {
-    "express":"*"
+    "express":"*",
+    "body-parser":"*",
+    "express-handlebars":"*"
   },
   "repository": {
     "type": "git",
@@ -15,7 +17,7 @@
     "express",
     "dashboard"
   ],
-  "author": "mandazi",
+  "author": "Amir Sahib",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mandazi/uiassesment/issues"
